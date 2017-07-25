@@ -293,8 +293,6 @@ void CleanScintillaBuf(HWND hWnd);
 void UpdateCurrentHScintilla(void);
 HWND getCurrentHScintilla(void);
 
-
-
 void loadSettings(void);
 void saveSettings(void);
 void setHexMask(void);
