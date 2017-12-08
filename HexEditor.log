@@ -1,0 +1,1065 @@
+﻿  MultiTypeCombo.cpp
+d:\test\npp\common\ccpp\notepad_plus_rc.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\test\npp\nativelang\src\nativelang_def.h(304): warning C4996: '_wcstok': This function or variable may be unsafe. Consider using wcstok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\corecrt_wstring.h(240): note: 参见“_wcstok”的声明
+d:\test\npp\nativelang\src\nativelang_def.h(305): warning C4996: '_wcstok': This function or variable may be unsafe. Consider using wcstok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\corecrt_wstring.h(240): note: 参见“_wcstok”的声明
+d:\test\npp\hexeditor\src\tables.h(38): warning C4566: 由通用字符名称“\u201A”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(38): warning C4566: 由通用字符名称“\u0192”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(38): warning C4566: 由通用字符名称“\u201E”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(38): warning C4566: 由通用字符名称“\u2020”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(38): warning C4566: 由通用字符名称“\u2021”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(38): warning C4566: 由通用字符名称“\u02C6”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(38): warning C4566: 由通用字符名称“\u0160”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(38): warning C4566: 由通用字符名称“\u2039”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(38): warning C4566: 由通用字符名称“\u0152”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(38): warning C4566: 由通用字符名称“\u017D”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(39): warning C4566: 由通用字符名称“\u2022”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(39): warning C4566: 由通用字符名称“\u2122”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(39): warning C4566: 由通用字符名称“\u0161”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(39): warning C4566: 由通用字符名称“\u203A”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(39): warning C4566: 由通用字符名称“\u0153”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(39): warning C4566: 由通用字符名称“\u017E”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(39): warning C4566: 由通用字符名称“\u0178”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(40): warning C4566: 由通用字符名称“\u00A1”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(40): warning C4566: 由通用字符名称“\u00A2”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(40): warning C4566: 由通用字符名称“\u00A3”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(40): warning C4566: 由通用字符名称“\u00A5”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(40): warning C4566: 由通用字符名称“\u00A6”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(40): warning C4566: 由通用字符名称“\u00A9”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(40): warning C4566: 由通用字符名称“\u00AA”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(40): warning C4566: 由通用字符名称“\u00AB”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(40): warning C4566: 由通用字符名称“\u00AC”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(40): warning C4566: 由通用字符名称“\u00AD”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(40): warning C4566: 由通用字符名称“\u00AE”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(40): warning C4566: 由通用字符名称“\u00AF”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(41): warning C4566: 由通用字符名称“\u00B2”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(41): warning C4566: 由通用字符名称“\u00B3”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(41): warning C4566: 由通用字符名称“\u00B4”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(41): warning C4566: 由通用字符名称“\u00B5”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(41): warning C4566: 由通用字符名称“\u00B6”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(41): warning C4566: 由通用字符名称“\u00B8”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(41): warning C4566: 由通用字符名称“\u00B9”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(41): warning C4566: 由通用字符名称“\u00BA”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(41): warning C4566: 由通用字符名称“\u00BB”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(41): warning C4566: 由通用字符名称“\u00BC”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(41): warning C4566: 由通用字符名称“\u00BD”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(41): warning C4566: 由通用字符名称“\u00BE”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(41): warning C4566: 由通用字符名称“\u00BF”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(42): warning C4566: 由通用字符名称“\u00C0”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(42): warning C4566: 由通用字符名称“\u00C1”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(42): warning C4566: 由通用字符名称“\u00C2”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(42): warning C4566: 由通用字符名称“\u00C3”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(42): warning C4566: 由通用字符名称“\u00C4”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(42): warning C4566: 由通用字符名称“\u00C5”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(42): warning C4566: 由通用字符名称“\u00C6”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(42): warning C4566: 由通用字符名称“\u00C7”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(42): warning C4566: 由通用字符名称“\u00C8”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(42): warning C4566: 由通用字符名称“\u00C9”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(42): warning C4566: 由通用字符名称“\u00CA”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(42): warning C4566: 由通用字符名称“\u00CB”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(42): warning C4566: 由通用字符名称“\u00CC”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(42): warning C4566: 由通用字符名称“\u00CD”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(42): warning C4566: 由通用字符名称“\u00CE”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(42): warning C4566: 由通用字符名称“\u00CF”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(43): warning C4566: 由通用字符名称“\u00D0”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(43): warning C4566: 由通用字符名称“\u00D1”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(43): warning C4566: 由通用字符名称“\u00D2”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(43): warning C4566: 由通用字符名称“\u00D3”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(43): warning C4566: 由通用字符名称“\u00D4”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(43): warning C4566: 由通用字符名称“\u00D5”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(43): warning C4566: 由通用字符名称“\u00D6”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(43): warning C4566: 由通用字符名称“\u00D8”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(43): warning C4566: 由通用字符名称“\u00D9”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(43): warning C4566: 由通用字符名称“\u00DA”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(43): warning C4566: 由通用字符名称“\u00DB”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(43): warning C4566: 由通用字符名称“\u00DC”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(43): warning C4566: 由通用字符名称“\u00DD”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(43): warning C4566: 由通用字符名称“\u00DE”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(43): warning C4566: 由通用字符名称“\u00DF”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(44): warning C4566: 由通用字符名称“\u00E2”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(44): warning C4566: 由通用字符名称“\u00E3”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(44): warning C4566: 由通用字符名称“\u00E4”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(44): warning C4566: 由通用字符名称“\u00E5”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(44): warning C4566: 由通用字符名称“\u00E6”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(44): warning C4566: 由通用字符名称“\u00E7”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(44): warning C4566: 由通用字符名称“\u00EB”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(44): warning C4566: 由通用字符名称“\u00EE”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(44): warning C4566: 由通用字符名称“\u00EF”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(45): warning C4566: 由通用字符名称“\u00F0”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(45): warning C4566: 由通用字符名称“\u00F1”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(45): warning C4566: 由通用字符名称“\u00F4”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(45): warning C4566: 由通用字符名称“\u00F5”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(45): warning C4566: 由通用字符名称“\u00F6”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(45): warning C4566: 由通用字符名称“\u00F8”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(45): warning C4566: 由通用字符名称“\u00FB”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(45): warning C4566: 由通用字符名称“\u00FD”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(45): warning C4566: 由通用字符名称“\u00FE”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(45): warning C4566: 由通用字符名称“\u00FF”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(46): warning C4838: 从“int”转换到“const char”需要收缩转换
+d:\test\npp\hexeditor\src\tables.h(46): warning C4305: “初始化”: 从“int”到“const char”截断
+d:\test\npp\hexeditor\src\tables.h(46): warning C4309: “初始化”: 截断常量值
+d:\test\npp\hexeditor\src\misc\multitypecombo.cpp(327): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\string.h(129): note: 参见“strcpy”的声明
+d:\test\npp\hexeditor\src\misc\multitypecombo.cpp(328): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\string.h(431): note: 参见“strtok”的声明
+d:\test\npp\hexeditor\src\misc\multitypecombo.cpp(332): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\string.h(90): note: 参见“strcat”的声明
+d:\test\npp\hexeditor\src\misc\multitypecombo.cpp(333): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\string.h(431): note: 参见“strtok”的声明
+d:\test\npp\hexeditor\src\misc\multitypecombo.cpp(443): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\string.h(129): note: 参见“strcpy”的声明
+d:\test\npp\hexeditor\src\misc\multitypecombo.cpp(446): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\string.h(90): note: 参见“strcat”的声明
+d:\test\npp\hexeditor\src\misc\multitypecombo.cpp(447): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\string.h(90): note: 参见“strcat”的声明
+  ColorCombo.cpp
+d:\test\npp\hexeditor\src\tables.h(38): warning C4566: 由通用字符名称“\u201A”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(38): warning C4566: 由通用字符名称“\u0192”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(38): warning C4566: 由通用字符名称“\u201E”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(38): warning C4566: 由通用字符名称“\u2020”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(38): warning C4566: 由通用字符名称“\u2021”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(38): warning C4566: 由通用字符名称“\u02C6”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(38): warning C4566: 由通用字符名称“\u0160”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(38): warning C4566: 由通用字符名称“\u2039”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(38): warning C4566: 由通用字符名称“\u0152”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(38): warning C4566: 由通用字符名称“\u017D”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(39): warning C4566: 由通用字符名称“\u2022”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(39): warning C4566: 由通用字符名称“\u2122”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(39): warning C4566: 由通用字符名称“\u0161”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(39): warning C4566: 由通用字符名称“\u203A”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(39): warning C4566: 由通用字符名称“\u0153”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(39): warning C4566: 由通用字符名称“\u017E”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(39): warning C4566: 由通用字符名称“\u0178”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(40): warning C4566: 由通用字符名称“\u00A1”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(40): warning C4566: 由通用字符名称“\u00A2”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(40): warning C4566: 由通用字符名称“\u00A3”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(40): warning C4566: 由通用字符名称“\u00A5”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(40): warning C4566: 由通用字符名称“\u00A6”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(40): warning C4566: 由通用字符名称“\u00A9”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(40): warning C4566: 由通用字符名称“\u00AA”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(40): warning C4566: 由通用字符名称“\u00AB”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(40): warning C4566: 由通用字符名称“\u00AC”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(40): warning C4566: 由通用字符名称“\u00AD”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(40): warning C4566: 由通用字符名称“\u00AE”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(40): warning C4566: 由通用字符名称“\u00AF”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(41): warning C4566: 由通用字符名称“\u00B2”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(41): warning C4566: 由通用字符名称“\u00B3”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(41): warning C4566: 由通用字符名称“\u00B4”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(41): warning C4566: 由通用字符名称“\u00B5”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(41): warning C4566: 由通用字符名称“\u00B6”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(41): warning C4566: 由通用字符名称“\u00B8”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(41): warning C4566: 由通用字符名称“\u00B9”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(41): warning C4566: 由通用字符名称“\u00BA”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(41): warning C4566: 由通用字符名称“\u00BB”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(41): warning C4566: 由通用字符名称“\u00BC”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(41): warning C4566: 由通用字符名称“\u00BD”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(41): warning C4566: 由通用字符名称“\u00BE”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(41): warning C4566: 由通用字符名称“\u00BF”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(42): warning C4566: 由通用字符名称“\u00C0”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(42): warning C4566: 由通用字符名称“\u00C1”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(42): warning C4566: 由通用字符名称“\u00C2”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(42): warning C4566: 由通用字符名称“\u00C3”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(42): warning C4566: 由通用字符名称“\u00C4”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(42): warning C4566: 由通用字符名称“\u00C5”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(42): warning C4566: 由通用字符名称“\u00C6”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(42): warning C4566: 由通用字符名称“\u00C7”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(42): warning C4566: 由通用字符名称“\u00C8”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(42): warning C4566: 由通用字符名称“\u00C9”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(42): warning C4566: 由通用字符名称“\u00CA”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(42): warning C4566: 由通用字符名称“\u00CB”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(42): warning C4566: 由通用字符名称“\u00CC”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(42): warning C4566: 由通用字符名称“\u00CD”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(42): warning C4566: 由通用字符名称“\u00CE”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(42): warning C4566: 由通用字符名称“\u00CF”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(43): warning C4566: 由通用字符名称“\u00D0”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(43): warning C4566: 由通用字符名称“\u00D1”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(43): warning C4566: 由通用字符名称“\u00D2”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(43): warning C4566: 由通用字符名称“\u00D3”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(43): warning C4566: 由通用字符名称“\u00D4”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(43): warning C4566: 由通用字符名称“\u00D5”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(43): warning C4566: 由通用字符名称“\u00D6”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(43): warning C4566: 由通用字符名称“\u00D8”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(43): warning C4566: 由通用字符名称“\u00D9”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(43): warning C4566: 由通用字符名称“\u00DA”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(43): warning C4566: 由通用字符名称“\u00DB”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(43): warning C4566: 由通用字符名称“\u00DC”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(43): warning C4566: 由通用字符名称“\u00DD”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(43): warning C4566: 由通用字符名称“\u00DE”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(43): warning C4566: 由通用字符名称“\u00DF”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(44): warning C4566: 由通用字符名称“\u00E2”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(44): warning C4566: 由通用字符名称“\u00E3”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(44): warning C4566: 由通用字符名称“\u00E4”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(44): warning C4566: 由通用字符名称“\u00E5”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(44): warning C4566: 由通用字符名称“\u00E6”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(44): warning C4566: 由通用字符名称“\u00E7”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(44): warning C4566: 由通用字符名称“\u00EB”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(44): warning C4566: 由通用字符名称“\u00EE”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(44): warning C4566: 由通用字符名称“\u00EF”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(45): warning C4566: 由通用字符名称“\u00F0”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(45): warning C4566: 由通用字符名称“\u00F1”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(45): warning C4566: 由通用字符名称“\u00F4”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(45): warning C4566: 由通用字符名称“\u00F5”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(45): warning C4566: 由通用字符名称“\u00F6”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(45): warning C4566: 由通用字符名称“\u00F8”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(45): warning C4566: 由通用字符名称“\u00FB”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(45): warning C4566: 由通用字符名称“\u00FD”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(45): warning C4566: 由通用字符名称“\u00FE”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(45): warning C4566: 由通用字符名称“\u00FF”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(46): warning C4838: 从“int”转换到“const char”需要收缩转换
+d:\test\npp\hexeditor\src\tables.h(46): warning C4305: “初始化”: 从“int”到“const char”截断
+d:\test\npp\hexeditor\src\tables.h(46): warning C4309: “初始化”: 截断常量值
+  PatternDialog.cpp
+d:\test\npp\common\ccpp\notepad_plus_rc.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\test\npp\nativelang\src\nativelang_def.h(304): warning C4996: '_wcstok': This function or variable may be unsafe. Consider using wcstok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\corecrt_wstring.h(240): note: 参见“_wcstok”的声明
+d:\test\npp\nativelang\src\nativelang_def.h(305): warning C4996: '_wcstok': This function or variable may be unsafe. Consider using wcstok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\corecrt_wstring.h(240): note: 参见“_wcstok”的声明
+d:\test\npp\hexeditor\src\tables.h(38): warning C4566: 由通用字符名称“\u201A”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(38): warning C4566: 由通用字符名称“\u0192”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(38): warning C4566: 由通用字符名称“\u201E”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(38): warning C4566: 由通用字符名称“\u2020”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(38): warning C4566: 由通用字符名称“\u2021”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(38): warning C4566: 由通用字符名称“\u02C6”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(38): warning C4566: 由通用字符名称“\u0160”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(38): warning C4566: 由通用字符名称“\u2039”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(38): warning C4566: 由通用字符名称“\u0152”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(38): warning C4566: 由通用字符名称“\u017D”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(39): warning C4566: 由通用字符名称“\u2022”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(39): warning C4566: 由通用字符名称“\u2122”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(39): warning C4566: 由通用字符名称“\u0161”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(39): warning C4566: 由通用字符名称“\u203A”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(39): warning C4566: 由通用字符名称“\u0153”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(39): warning C4566: 由通用字符名称“\u017E”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(39): warning C4566: 由通用字符名称“\u0178”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(40): warning C4566: 由通用字符名称“\u00A1”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(40): warning C4566: 由通用字符名称“\u00A2”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(40): warning C4566: 由通用字符名称“\u00A3”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(40): warning C4566: 由通用字符名称“\u00A5”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(40): warning C4566: 由通用字符名称“\u00A6”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(40): warning C4566: 由通用字符名称“\u00A9”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(40): warning C4566: 由通用字符名称“\u00AA”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(40): warning C4566: 由通用字符名称“\u00AB”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(40): warning C4566: 由通用字符名称“\u00AC”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(40): warning C4566: 由通用字符名称“\u00AD”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(40): warning C4566: 由通用字符名称“\u00AE”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(40): warning C4566: 由通用字符名称“\u00AF”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(41): warning C4566: 由通用字符名称“\u00B2”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(41): warning C4566: 由通用字符名称“\u00B3”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(41): warning C4566: 由通用字符名称“\u00B4”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(41): warning C4566: 由通用字符名称“\u00B5”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(41): warning C4566: 由通用字符名称“\u00B6”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(41): warning C4566: 由通用字符名称“\u00B8”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(41): warning C4566: 由通用字符名称“\u00B9”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(41): warning C4566: 由通用字符名称“\u00BA”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(41): warning C4566: 由通用字符名称“\u00BB”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(41): warning C4566: 由通用字符名称“\u00BC”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(41): warning C4566: 由通用字符名称“\u00BD”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(41): warning C4566: 由通用字符名称“\u00BE”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(41): warning C4566: 由通用字符名称“\u00BF”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(42): warning C4566: 由通用字符名称“\u00C0”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(42): warning C4566: 由通用字符名称“\u00C1”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(42): warning C4566: 由通用字符名称“\u00C2”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(42): warning C4566: 由通用字符名称“\u00C3”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(42): warning C4566: 由通用字符名称“\u00C4”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(42): warning C4566: 由通用字符名称“\u00C5”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(42): warning C4566: 由通用字符名称“\u00C6”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(42): warning C4566: 由通用字符名称“\u00C7”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(42): warning C4566: 由通用字符名称“\u00C8”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(42): warning C4566: 由通用字符名称“\u00C9”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(42): warning C4566: 由通用字符名称“\u00CA”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(42): warning C4566: 由通用字符名称“\u00CB”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(42): warning C4566: 由通用字符名称“\u00CC”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(42): warning C4566: 由通用字符名称“\u00CD”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(42): warning C4566: 由通用字符名称“\u00CE”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(42): warning C4566: 由通用字符名称“\u00CF”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(43): warning C4566: 由通用字符名称“\u00D0”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(43): warning C4566: 由通用字符名称“\u00D1”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(43): warning C4566: 由通用字符名称“\u00D2”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(43): warning C4566: 由通用字符名称“\u00D3”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(43): warning C4566: 由通用字符名称“\u00D4”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(43): warning C4566: 由通用字符名称“\u00D5”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(43): warning C4566: 由通用字符名称“\u00D6”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(43): warning C4566: 由通用字符名称“\u00D8”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(43): warning C4566: 由通用字符名称“\u00D9”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(43): warning C4566: 由通用字符名称“\u00DA”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(43): warning C4566: 由通用字符名称“\u00DB”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(43): warning C4566: 由通用字符名称“\u00DC”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(43): warning C4566: 由通用字符名称“\u00DD”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(43): warning C4566: 由通用字符名称“\u00DE”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(43): warning C4566: 由通用字符名称“\u00DF”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(44): warning C4566: 由通用字符名称“\u00E2”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(44): warning C4566: 由通用字符名称“\u00E3”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(44): warning C4566: 由通用字符名称“\u00E4”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(44): warning C4566: 由通用字符名称“\u00E5”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(44): warning C4566: 由通用字符名称“\u00E6”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(44): warning C4566: 由通用字符名称“\u00E7”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(44): warning C4566: 由通用字符名称“\u00EB”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(44): warning C4566: 由通用字符名称“\u00EE”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(44): warning C4566: 由通用字符名称“\u00EF”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(45): warning C4566: 由通用字符名称“\u00F0”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(45): warning C4566: 由通用字符名称“\u00F1”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(45): warning C4566: 由通用字符名称“\u00F4”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(45): warning C4566: 由通用字符名称“\u00F5”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(45): warning C4566: 由通用字符名称“\u00F6”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(45): warning C4566: 由通用字符名称“\u00F8”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(45): warning C4566: 由通用字符名称“\u00FB”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(45): warning C4566: 由通用字符名称“\u00FD”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(45): warning C4566: 由通用字符名称“\u00FE”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(45): warning C4566: 由通用字符名称“\u00FF”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(46): warning C4838: 从“int”转换到“const char”需要收缩转换
+d:\test\npp\hexeditor\src\tables.h(46): warning C4305: “初始化”: 从“int”到“const char”截断
+d:\test\npp\hexeditor\src\tables.h(46): warning C4309: “初始化”: 截断常量值
+d:\test\npp\hexeditor\src\userdlg\patterndialog.cpp(29): warning C4996: 'wcscpy': This function or variable may be unsafe. Consider using wcscpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\corecrt_wstring.h(121): note: 参见“wcscpy”的声明
+d:\test\npp\hexeditor\src\userdlg\patterndialog.cpp(45): warning C4996: 'wcscpy': This function or variable may be unsafe. Consider using wcscpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\corecrt_wstring.h(121): note: 参见“wcscpy”的声明
+d:\test\npp\hexeditor\src\userdlg\patterndialog.cpp(179): warning C4996: '_swprintf': This function or variable may be unsafe. Consider using _swprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\corecrt_wstdio.h(1446): note: 参见“_swprintf”的声明
+d:\test\npp\hexeditor\src\userdlg\patterndialog.cpp(181): warning C4996: '_swprintf': This function or variable may be unsafe. Consider using _swprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\corecrt_wstdio.h(1446): note: 参见“_swprintf”的声明
+  GotoDialog.cpp
+d:\test\npp\common\ccpp\notepad_plus_rc.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\test\npp\nativelang\src\nativelang_def.h(304): warning C4996: '_wcstok': This function or variable may be unsafe. Consider using wcstok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\corecrt_wstring.h(240): note: 参见“_wcstok”的声明
+d:\test\npp\nativelang\src\nativelang_def.h(305): warning C4996: '_wcstok': This function or variable may be unsafe. Consider using wcstok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\corecrt_wstring.h(240): note: 参见“_wcstok”的声明
+d:\test\npp\hexeditor\src\tables.h(38): warning C4566: 由通用字符名称“\u201A”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(38): warning C4566: 由通用字符名称“\u0192”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(38): warning C4566: 由通用字符名称“\u201E”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(38): warning C4566: 由通用字符名称“\u2020”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(38): warning C4566: 由通用字符名称“\u2021”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(38): warning C4566: 由通用字符名称“\u02C6”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(38): warning C4566: 由通用字符名称“\u0160”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(38): warning C4566: 由通用字符名称“\u2039”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(38): warning C4566: 由通用字符名称“\u0152”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(38): warning C4566: 由通用字符名称“\u017D”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(39): warning C4566: 由通用字符名称“\u2022”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(39): warning C4566: 由通用字符名称“\u2122”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(39): warning C4566: 由通用字符名称“\u0161”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(39): warning C4566: 由通用字符名称“\u203A”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(39): warning C4566: 由通用字符名称“\u0153”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(39): warning C4566: 由通用字符名称“\u017E”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(39): warning C4566: 由通用字符名称“\u0178”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(40): warning C4566: 由通用字符名称“\u00A1”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(40): warning C4566: 由通用字符名称“\u00A2”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(40): warning C4566: 由通用字符名称“\u00A3”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(40): warning C4566: 由通用字符名称“\u00A5”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(40): warning C4566: 由通用字符名称“\u00A6”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(40): warning C4566: 由通用字符名称“\u00A9”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(40): warning C4566: 由通用字符名称“\u00AA”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(40): warning C4566: 由通用字符名称“\u00AB”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(40): warning C4566: 由通用字符名称“\u00AC”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(40): warning C4566: 由通用字符名称“\u00AD”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(40): warning C4566: 由通用字符名称“\u00AE”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(40): warning C4566: 由通用字符名称“\u00AF”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(41): warning C4566: 由通用字符名称“\u00B2”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(41): warning C4566: 由通用字符名称“\u00B3”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(41): warning C4566: 由通用字符名称“\u00B4”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(41): warning C4566: 由通用字符名称“\u00B5”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(41): warning C4566: 由通用字符名称“\u00B6”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(41): warning C4566: 由通用字符名称“\u00B8”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(41): warning C4566: 由通用字符名称“\u00B9”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(41): warning C4566: 由通用字符名称“\u00BA”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(41): warning C4566: 由通用字符名称“\u00BB”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(41): warning C4566: 由通用字符名称“\u00BC”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(41): warning C4566: 由通用字符名称“\u00BD”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(41): warning C4566: 由通用字符名称“\u00BE”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(41): warning C4566: 由通用字符名称“\u00BF”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(42): warning C4566: 由通用字符名称“\u00C0”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(42): warning C4566: 由通用字符名称“\u00C1”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(42): warning C4566: 由通用字符名称“\u00C2”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(42): warning C4566: 由通用字符名称“\u00C3”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(42): warning C4566: 由通用字符名称“\u00C4”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(42): warning C4566: 由通用字符名称“\u00C5”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(42): warning C4566: 由通用字符名称“\u00C6”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(42): warning C4566: 由通用字符名称“\u00C7”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(42): warning C4566: 由通用字符名称“\u00C8”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(42): warning C4566: 由通用字符名称“\u00C9”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(42): warning C4566: 由通用字符名称“\u00CA”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(42): warning C4566: 由通用字符名称“\u00CB”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(42): warning C4566: 由通用字符名称“\u00CC”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(42): warning C4566: 由通用字符名称“\u00CD”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(42): warning C4566: 由通用字符名称“\u00CE”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(42): warning C4566: 由通用字符名称“\u00CF”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(43): warning C4566: 由通用字符名称“\u00D0”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(43): warning C4566: 由通用字符名称“\u00D1”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(43): warning C4566: 由通用字符名称“\u00D2”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(43): warning C4566: 由通用字符名称“\u00D3”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(43): warning C4566: 由通用字符名称“\u00D4”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(43): warning C4566: 由通用字符名称“\u00D5”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(43): warning C4566: 由通用字符名称“\u00D6”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(43): warning C4566: 由通用字符名称“\u00D8”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(43): warning C4566: 由通用字符名称“\u00D9”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(43): warning C4566: 由通用字符名称“\u00DA”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(43): warning C4566: 由通用字符名称“\u00DB”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(43): warning C4566: 由通用字符名称“\u00DC”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(43): warning C4566: 由通用字符名称“\u00DD”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(43): warning C4566: 由通用字符名称“\u00DE”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(43): warning C4566: 由通用字符名称“\u00DF”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(44): warning C4566: 由通用字符名称“\u00E2”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(44): warning C4566: 由通用字符名称“\u00E3”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(44): warning C4566: 由通用字符名称“\u00E4”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(44): warning C4566: 由通用字符名称“\u00E5”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(44): warning C4566: 由通用字符名称“\u00E6”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(44): warning C4566: 由通用字符名称“\u00E7”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(44): warning C4566: 由通用字符名称“\u00EB”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(44): warning C4566: 由通用字符名称“\u00EE”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(44): warning C4566: 由通用字符名称“\u00EF”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(45): warning C4566: 由通用字符名称“\u00F0”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(45): warning C4566: 由通用字符名称“\u00F1”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(45): warning C4566: 由通用字符名称“\u00F4”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(45): warning C4566: 由通用字符名称“\u00F5”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(45): warning C4566: 由通用字符名称“\u00F6”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(45): warning C4566: 由通用字符名称“\u00F8”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(45): warning C4566: 由通用字符名称“\u00FB”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(45): warning C4566: 由通用字符名称“\u00FD”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(45): warning C4566: 由通用字符名称“\u00FE”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(45): warning C4566: 由通用字符名称“\u00FF”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(46): warning C4838: 从“int”转换到“const char”需要收缩转换
+d:\test\npp\hexeditor\src\tables.h(46): warning C4305: “初始化”: 从“int”到“const char”截断
+d:\test\npp\hexeditor\src\tables.h(46): warning C4309: “初始化”: 截断常量值
+d:\test\npp\hexeditor\src\userdlg\gotodialog.cpp(208): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\stdio.h(1769): note: 参见“sprintf”的声明
+d:\test\npp\hexeditor\src\userdlg\gotodialog.cpp(215): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\stdio.h(1769): note: 参见“sprintf”的声明
+d:\test\npp\hexeditor\src\userdlg\gotodialog.cpp(224): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\stdio.h(1769): note: 参见“sprintf”的声明
+d:\test\npp\hexeditor\src\userdlg\gotodialog.cpp(231): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\stdio.h(1769): note: 参见“sprintf”的声明
+d:\test\npp\hexeditor\src\userdlg\gotodialog.cpp(255): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\stdio.h(1769): note: 参见“sprintf”的声明
+d:\test\npp\hexeditor\src\userdlg\gotodialog.cpp(260): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\stdio.h(1769): note: 参见“sprintf”的声明
+d:\test\npp\hexeditor\src\userdlg\gotodialog.cpp(262): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\stdio.h(1769): note: 参见“sprintf”的声明
+d:\test\npp\hexeditor\src\userdlg\gotodialog.cpp(274): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _itoa. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\stdlib.h(1323): note: 参见“itoa”的声明
+d:\test\npp\hexeditor\src\userdlg\gotodialog.cpp(278): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _itoa. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\stdlib.h(1323): note: 参见“itoa”的声明
+d:\test\npp\hexeditor\src\userdlg\gotodialog.cpp(280): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _itoa. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\stdlib.h(1323): note: 参见“itoa”的声明
+  FindReplaceDialog.cpp
+d:\test\npp\common\ccpp\notepad_plus_rc.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\test\npp\nativelang\src\nativelang_def.h(304): warning C4996: '_wcstok': This function or variable may be unsafe. Consider using wcstok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\corecrt_wstring.h(240): note: 参见“_wcstok”的声明
+d:\test\npp\nativelang\src\nativelang_def.h(305): warning C4996: '_wcstok': This function or variable may be unsafe. Consider using wcstok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\corecrt_wstring.h(240): note: 参见“_wcstok”的声明
+d:\test\npp\hexeditor\src\tables.h(38): warning C4566: 由通用字符名称“\u201A”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(38): warning C4566: 由通用字符名称“\u0192”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(38): warning C4566: 由通用字符名称“\u201E”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(38): warning C4566: 由通用字符名称“\u2020”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(38): warning C4566: 由通用字符名称“\u2021”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(38): warning C4566: 由通用字符名称“\u02C6”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(38): warning C4566: 由通用字符名称“\u0160”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(38): warning C4566: 由通用字符名称“\u2039”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(38): warning C4566: 由通用字符名称“\u0152”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(38): warning C4566: 由通用字符名称“\u017D”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(39): warning C4566: 由通用字符名称“\u2022”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(39): warning C4566: 由通用字符名称“\u2122”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(39): warning C4566: 由通用字符名称“\u0161”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(39): warning C4566: 由通用字符名称“\u203A”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(39): warning C4566: 由通用字符名称“\u0153”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(39): warning C4566: 由通用字符名称“\u017E”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(39): warning C4566: 由通用字符名称“\u0178”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(40): warning C4566: 由通用字符名称“\u00A1”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(40): warning C4566: 由通用字符名称“\u00A2”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(40): warning C4566: 由通用字符名称“\u00A3”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(40): warning C4566: 由通用字符名称“\u00A5”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(40): warning C4566: 由通用字符名称“\u00A6”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(40): warning C4566: 由通用字符名称“\u00A9”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(40): warning C4566: 由通用字符名称“\u00AA”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(40): warning C4566: 由通用字符名称“\u00AB”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(40): warning C4566: 由通用字符名称“\u00AC”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(40): warning C4566: 由通用字符名称“\u00AD”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(40): warning C4566: 由通用字符名称“\u00AE”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(40): warning C4566: 由通用字符名称“\u00AF”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(41): warning C4566: 由通用字符名称“\u00B2”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(41): warning C4566: 由通用字符名称“\u00B3”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(41): warning C4566: 由通用字符名称“\u00B4”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(41): warning C4566: 由通用字符名称“\u00B5”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(41): warning C4566: 由通用字符名称“\u00B6”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(41): warning C4566: 由通用字符名称“\u00B8”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(41): warning C4566: 由通用字符名称“\u00B9”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(41): warning C4566: 由通用字符名称“\u00BA”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(41): warning C4566: 由通用字符名称“\u00BB”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(41): warning C4566: 由通用字符名称“\u00BC”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(41): warning C4566: 由通用字符名称“\u00BD”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(41): warning C4566: 由通用字符名称“\u00BE”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(41): warning C4566: 由通用字符名称“\u00BF”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(42): warning C4566: 由通用字符名称“\u00C0”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(42): warning C4566: 由通用字符名称“\u00C1”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(42): warning C4566: 由通用字符名称“\u00C2”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(42): warning C4566: 由通用字符名称“\u00C3”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(42): warning C4566: 由通用字符名称“\u00C4”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(42): warning C4566: 由通用字符名称“\u00C5”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(42): warning C4566: 由通用字符名称“\u00C6”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(42): warning C4566: 由通用字符名称“\u00C7”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(42): warning C4566: 由通用字符名称“\u00C8”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(42): warning C4566: 由通用字符名称“\u00C9”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(42): warning C4566: 由通用字符名称“\u00CA”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(42): warning C4566: 由通用字符名称“\u00CB”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(42): warning C4566: 由通用字符名称“\u00CC”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(42): warning C4566: 由通用字符名称“\u00CD”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(42): warning C4566: 由通用字符名称“\u00CE”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(42): warning C4566: 由通用字符名称“\u00CF”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(43): warning C4566: 由通用字符名称“\u00D0”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(43): warning C4566: 由通用字符名称“\u00D1”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(43): warning C4566: 由通用字符名称“\u00D2”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(43): warning C4566: 由通用字符名称“\u00D3”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(43): warning C4566: 由通用字符名称“\u00D4”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(43): warning C4566: 由通用字符名称“\u00D5”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(43): warning C4566: 由通用字符名称“\u00D6”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(43): warning C4566: 由通用字符名称“\u00D8”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(43): warning C4566: 由通用字符名称“\u00D9”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(43): warning C4566: 由通用字符名称“\u00DA”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(43): warning C4566: 由通用字符名称“\u00DB”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(43): warning C4566: 由通用字符名称“\u00DC”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(43): warning C4566: 由通用字符名称“\u00DD”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(43): warning C4566: 由通用字符名称“\u00DE”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(43): warning C4566: 由通用字符名称“\u00DF”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(44): warning C4566: 由通用字符名称“\u00E2”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(44): warning C4566: 由通用字符名称“\u00E3”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(44): warning C4566: 由通用字符名称“\u00E4”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(44): warning C4566: 由通用字符名称“\u00E5”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(44): warning C4566: 由通用字符名称“\u00E6”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(44): warning C4566: 由通用字符名称“\u00E7”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(44): warning C4566: 由通用字符名称“\u00EB”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(44): warning C4566: 由通用字符名称“\u00EE”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(44): warning C4566: 由通用字符名称“\u00EF”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(45): warning C4566: 由通用字符名称“\u00F0”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(45): warning C4566: 由通用字符名称“\u00F1”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(45): warning C4566: 由通用字符名称“\u00F4”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(45): warning C4566: 由通用字符名称“\u00F5”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(45): warning C4566: 由通用字符名称“\u00F6”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(45): warning C4566: 由通用字符名称“\u00F8”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(45): warning C4566: 由通用字符名称“\u00FB”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(45): warning C4566: 由通用字符名称“\u00FD”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(45): warning C4566: 由通用字符名称“\u00FE”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(45): warning C4566: 由通用字符名称“\u00FF”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(46): warning C4838: 从“int”转换到“const char”需要收缩转换
+d:\test\npp\hexeditor\src\tables.h(46): warning C4305: “初始化”: 从“int”到“const char”截断
+d:\test\npp\hexeditor\src\tables.h(46): warning C4309: “初始化”: 截断常量值
+d:\test\npp\hexeditor\src\userdlg\findreplacedialog.cpp(27): warning C4005: “CB_SETMINVISIBLE”: 宏重定义
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\um\commctrl.h(7473): note: 参见“CB_SETMINVISIBLE”的前一个定义
+d:\test\npp\hexeditor\src\userdlg\findreplacedialog.cpp(194): warning C4996: 'wcscpy': This function or variable may be unsafe. Consider using wcscpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\corecrt_wstring.h(121): note: 参见“wcscpy”的声明
+d:\test\npp\hexeditor\src\userdlg\findreplacedialog.cpp(199): warning C4996: 'wcscpy': This function or variable may be unsafe. Consider using wcscpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\corecrt_wstring.h(121): note: 参见“wcscpy”的声明
+d:\test\npp\hexeditor\src\userdlg\findreplacedialog.cpp(258): warning C4996: 'wcscpy': This function or variable may be unsafe. Consider using wcscpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\corecrt_wstring.h(121): note: 参见“wcscpy”的声明
+d:\test\npp\hexeditor\src\userdlg\findreplacedialog.cpp(271): warning C4996: 'wcscpy': This function or variable may be unsafe. Consider using wcscpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\corecrt_wstring.h(121): note: 参见“wcscpy”的声明
+d:\test\npp\hexeditor\src\userdlg\findreplacedialog.cpp(453): warning C4996: 'wcscpy': This function or variable may be unsafe. Consider using wcscpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\corecrt_wstring.h(121): note: 参见“wcscpy”的声明
+d:\test\npp\hexeditor\src\userdlg\findreplacedialog.cpp(518): warning C4996: 'stricmp': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _stricmp. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\string.h(546): note: 参见“stricmp”的声明
+d:\test\npp\hexeditor\src\userdlg\findreplacedialog.cpp(645): warning C4996: 'wcscpy': This function or variable may be unsafe. Consider using wcscpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\corecrt_wstring.h(121): note: 参见“wcscpy”的声明
+d:\test\npp\hexeditor\src\userdlg\findreplacedialog.cpp(662): warning C4996: '_swprintf': This function or variable may be unsafe. Consider using _swprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\corecrt_wstdio.h(1446): note: 参见“_swprintf”的声明
+d:\test\npp\hexeditor\src\userdlg\findreplacedialog.cpp(664): warning C4996: '_swprintf': This function or variable may be unsafe. Consider using _swprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\corecrt_wstdio.h(1446): note: 参见“_swprintf”的声明
+d:\test\npp\hexeditor\src\userdlg\findreplacedialog.cpp(683): warning C4996: '_swprintf': This function or variable may be unsafe. Consider using _swprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\corecrt_wstdio.h(1446): note: 参见“_swprintf”的声明
+d:\test\npp\hexeditor\src\userdlg\findreplacedialog.cpp(685): warning C4996: '_swprintf': This function or variable may be unsafe. Consider using _swprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\corecrt_wstdio.h(1446): note: 参见“_swprintf”的声明
+d:\test\npp\hexeditor\src\userdlg\findreplacedialog.cpp(691): warning C4996: '_swprintf': This function or variable may be unsafe. Consider using _swprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\corecrt_wstdio.h(1446): note: 参见“_swprintf”的声明
+d:\test\npp\hexeditor\src\userdlg\findreplacedialog.cpp(693): warning C4996: '_swprintf': This function or variable may be unsafe. Consider using _swprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\corecrt_wstdio.h(1446): note: 参见“_swprintf”的声明
+  CompareDialog.cpp
+d:\test\npp\common\ccpp\notepad_plus_rc.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\test\npp\nativelang\src\nativelang_def.h(304): warning C4996: '_wcstok': This function or variable may be unsafe. Consider using wcstok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\corecrt_wstring.h(240): note: 参见“_wcstok”的声明
+d:\test\npp\nativelang\src\nativelang_def.h(305): warning C4996: '_wcstok': This function or variable may be unsafe. Consider using wcstok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\corecrt_wstring.h(240): note: 参见“_wcstok”的声明
+d:\test\npp\hexeditor\src\tables.h(38): warning C4566: 由通用字符名称“\u201A”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(38): warning C4566: 由通用字符名称“\u0192”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(38): warning C4566: 由通用字符名称“\u201E”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(38): warning C4566: 由通用字符名称“\u2020”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(38): warning C4566: 由通用字符名称“\u2021”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(38): warning C4566: 由通用字符名称“\u02C6”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(38): warning C4566: 由通用字符名称“\u0160”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(38): warning C4566: 由通用字符名称“\u2039”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(38): warning C4566: 由通用字符名称“\u0152”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(38): warning C4566: 由通用字符名称“\u017D”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(39): warning C4566: 由通用字符名称“\u2022”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(39): warning C4566: 由通用字符名称“\u2122”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(39): warning C4566: 由通用字符名称“\u0161”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(39): warning C4566: 由通用字符名称“\u203A”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(39): warning C4566: 由通用字符名称“\u0153”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(39): warning C4566: 由通用字符名称“\u017E”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(39): warning C4566: 由通用字符名称“\u0178”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(40): warning C4566: 由通用字符名称“\u00A1”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(40): warning C4566: 由通用字符名称“\u00A2”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(40): warning C4566: 由通用字符名称“\u00A3”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(40): warning C4566: 由通用字符名称“\u00A5”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(40): warning C4566: 由通用字符名称“\u00A6”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(40): warning C4566: 由通用字符名称“\u00A9”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(40): warning C4566: 由通用字符名称“\u00AA”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(40): warning C4566: 由通用字符名称“\u00AB”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(40): warning C4566: 由通用字符名称“\u00AC”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(40): warning C4566: 由通用字符名称“\u00AD”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(40): warning C4566: 由通用字符名称“\u00AE”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(40): warning C4566: 由通用字符名称“\u00AF”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(41): warning C4566: 由通用字符名称“\u00B2”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(41): warning C4566: 由通用字符名称“\u00B3”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(41): warning C4566: 由通用字符名称“\u00B4”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(41): warning C4566: 由通用字符名称“\u00B5”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(41): warning C4566: 由通用字符名称“\u00B6”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(41): warning C4566: 由通用字符名称“\u00B8”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(41): warning C4566: 由通用字符名称“\u00B9”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(41): warning C4566: 由通用字符名称“\u00BA”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(41): warning C4566: 由通用字符名称“\u00BB”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(41): warning C4566: 由通用字符名称“\u00BC”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(41): warning C4566: 由通用字符名称“\u00BD”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(41): warning C4566: 由通用字符名称“\u00BE”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(41): warning C4566: 由通用字符名称“\u00BF”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(42): warning C4566: 由通用字符名称“\u00C0”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(42): warning C4566: 由通用字符名称“\u00C1”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(42): warning C4566: 由通用字符名称“\u00C2”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(42): warning C4566: 由通用字符名称“\u00C3”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(42): warning C4566: 由通用字符名称“\u00C4”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(42): warning C4566: 由通用字符名称“\u00C5”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(42): warning C4566: 由通用字符名称“\u00C6”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(42): warning C4566: 由通用字符名称“\u00C7”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(42): warning C4566: 由通用字符名称“\u00C8”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(42): warning C4566: 由通用字符名称“\u00C9”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(42): warning C4566: 由通用字符名称“\u00CA”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(42): warning C4566: 由通用字符名称“\u00CB”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(42): warning C4566: 由通用字符名称“\u00CC”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(42): warning C4566: 由通用字符名称“\u00CD”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(42): warning C4566: 由通用字符名称“\u00CE”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(42): warning C4566: 由通用字符名称“\u00CF”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(43): warning C4566: 由通用字符名称“\u00D0”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(43): warning C4566: 由通用字符名称“\u00D1”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(43): warning C4566: 由通用字符名称“\u00D2”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(43): warning C4566: 由通用字符名称“\u00D3”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(43): warning C4566: 由通用字符名称“\u00D4”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(43): warning C4566: 由通用字符名称“\u00D5”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(43): warning C4566: 由通用字符名称“\u00D6”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(43): warning C4566: 由通用字符名称“\u00D8”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(43): warning C4566: 由通用字符名称“\u00D9”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(43): warning C4566: 由通用字符名称“\u00DA”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(43): warning C4566: 由通用字符名称“\u00DB”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(43): warning C4566: 由通用字符名称“\u00DC”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(43): warning C4566: 由通用字符名称“\u00DD”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(43): warning C4566: 由通用字符名称“\u00DE”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(43): warning C4566: 由通用字符名称“\u00DF”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(44): warning C4566: 由通用字符名称“\u00E2”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(44): warning C4566: 由通用字符名称“\u00E3”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(44): warning C4566: 由通用字符名称“\u00E4”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(44): warning C4566: 由通用字符名称“\u00E5”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(44): warning C4566: 由通用字符名称“\u00E6”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(44): warning C4566: 由通用字符名称“\u00E7”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(44): warning C4566: 由通用字符名称“\u00EB”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(44): warning C4566: 由通用字符名称“\u00EE”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(44): warning C4566: 由通用字符名称“\u00EF”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(45): warning C4566: 由通用字符名称“\u00F0”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(45): warning C4566: 由通用字符名称“\u00F1”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(45): warning C4566: 由通用字符名称“\u00F4”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(45): warning C4566: 由通用字符名称“\u00F5”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(45): warning C4566: 由通用字符名称“\u00F6”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(45): warning C4566: 由通用字符名称“\u00F8”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(45): warning C4566: 由通用字符名称“\u00FB”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(45): warning C4566: 由通用字符名称“\u00FD”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(45): warning C4566: 由通用字符名称“\u00FE”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(45): warning C4566: 由通用字符名称“\u00FF”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(46): warning C4838: 从“int”转换到“const char”需要收缩转换
+d:\test\npp\hexeditor\src\tables.h(46): warning C4305: “初始化”: 从“int”到“const char”截断
+d:\test\npp\hexeditor\src\tables.h(46): warning C4309: “初始化”: 截断常量值
+d:\test\npp\hexeditor\src\hexdialog.h(78): warning C4996: 'wcscpy': This function or variable may be unsafe. Consider using wcscpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\corecrt_wstring.h(121): note: 参见“wcscpy”的声明
+  Hex.cpp
+d:\test\npp\common\ccpp\notepad_plus_rc.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\test\npp\nativelang\src\nativelang_def.h(304): warning C4996: '_wcstok': This function or variable may be unsafe. Consider using wcstok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\corecrt_wstring.h(240): note: 参见“_wcstok”的声明
+d:\test\npp\nativelang\src\nativelang_def.h(305): warning C4996: '_wcstok': This function or variable may be unsafe. Consider using wcstok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\corecrt_wstring.h(240): note: 参见“_wcstok”的声明
+d:\test\npp\hexeditor\src\tables.h(38): warning C4566: 由通用字符名称“\u201A”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(38): warning C4566: 由通用字符名称“\u0192”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(38): warning C4566: 由通用字符名称“\u201E”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(38): warning C4566: 由通用字符名称“\u2020”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(38): warning C4566: 由通用字符名称“\u2021”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(38): warning C4566: 由通用字符名称“\u02C6”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(38): warning C4566: 由通用字符名称“\u0160”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(38): warning C4566: 由通用字符名称“\u2039”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(38): warning C4566: 由通用字符名称“\u0152”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(38): warning C4566: 由通用字符名称“\u017D”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(39): warning C4566: 由通用字符名称“\u2022”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(39): warning C4566: 由通用字符名称“\u2122”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(39): warning C4566: 由通用字符名称“\u0161”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(39): warning C4566: 由通用字符名称“\u203A”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(39): warning C4566: 由通用字符名称“\u0153”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(39): warning C4566: 由通用字符名称“\u017E”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(39): warning C4566: 由通用字符名称“\u0178”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(40): warning C4566: 由通用字符名称“\u00A1”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(40): warning C4566: 由通用字符名称“\u00A2”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(40): warning C4566: 由通用字符名称“\u00A3”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(40): warning C4566: 由通用字符名称“\u00A5”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(40): warning C4566: 由通用字符名称“\u00A6”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(40): warning C4566: 由通用字符名称“\u00A9”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(40): warning C4566: 由通用字符名称“\u00AA”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(40): warning C4566: 由通用字符名称“\u00AB”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(40): warning C4566: 由通用字符名称“\u00AC”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(40): warning C4566: 由通用字符名称“\u00AD”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(40): warning C4566: 由通用字符名称“\u00AE”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(40): warning C4566: 由通用字符名称“\u00AF”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(41): warning C4566: 由通用字符名称“\u00B2”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(41): warning C4566: 由通用字符名称“\u00B3”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(41): warning C4566: 由通用字符名称“\u00B4”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(41): warning C4566: 由通用字符名称“\u00B5”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(41): warning C4566: 由通用字符名称“\u00B6”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(41): warning C4566: 由通用字符名称“\u00B8”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(41): warning C4566: 由通用字符名称“\u00B9”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(41): warning C4566: 由通用字符名称“\u00BA”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(41): warning C4566: 由通用字符名称“\u00BB”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(41): warning C4566: 由通用字符名称“\u00BC”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(41): warning C4566: 由通用字符名称“\u00BD”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(41): warning C4566: 由通用字符名称“\u00BE”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(41): warning C4566: 由通用字符名称“\u00BF”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(42): warning C4566: 由通用字符名称“\u00C0”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(42): warning C4566: 由通用字符名称“\u00C1”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(42): warning C4566: 由通用字符名称“\u00C2”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(42): warning C4566: 由通用字符名称“\u00C3”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(42): warning C4566: 由通用字符名称“\u00C4”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(42): warning C4566: 由通用字符名称“\u00C5”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(42): warning C4566: 由通用字符名称“\u00C6”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(42): warning C4566: 由通用字符名称“\u00C7”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(42): warning C4566: 由通用字符名称“\u00C8”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(42): warning C4566: 由通用字符名称“\u00C9”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(42): warning C4566: 由通用字符名称“\u00CA”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(42): warning C4566: 由通用字符名称“\u00CB”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(42): warning C4566: 由通用字符名称“\u00CC”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(42): warning C4566: 由通用字符名称“\u00CD”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(42): warning C4566: 由通用字符名称“\u00CE”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(42): warning C4566: 由通用字符名称“\u00CF”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(43): warning C4566: 由通用字符名称“\u00D0”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(43): warning C4566: 由通用字符名称“\u00D1”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(43): warning C4566: 由通用字符名称“\u00D2”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(43): warning C4566: 由通用字符名称“\u00D3”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(43): warning C4566: 由通用字符名称“\u00D4”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(43): warning C4566: 由通用字符名称“\u00D5”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(43): warning C4566: 由通用字符名称“\u00D6”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(43): warning C4566: 由通用字符名称“\u00D8”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(43): warning C4566: 由通用字符名称“\u00D9”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(43): warning C4566: 由通用字符名称“\u00DA”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(43): warning C4566: 由通用字符名称“\u00DB”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(43): warning C4566: 由通用字符名称“\u00DC”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(43): warning C4566: 由通用字符名称“\u00DD”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(43): warning C4566: 由通用字符名称“\u00DE”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(43): warning C4566: 由通用字符名称“\u00DF”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(44): warning C4566: 由通用字符名称“\u00E2”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(44): warning C4566: 由通用字符名称“\u00E3”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(44): warning C4566: 由通用字符名称“\u00E4”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(44): warning C4566: 由通用字符名称“\u00E5”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(44): warning C4566: 由通用字符名称“\u00E6”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(44): warning C4566: 由通用字符名称“\u00E7”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(44): warning C4566: 由通用字符名称“\u00EB”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(44): warning C4566: 由通用字符名称“\u00EE”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(44): warning C4566: 由通用字符名称“\u00EF”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(45): warning C4566: 由通用字符名称“\u00F0”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(45): warning C4566: 由通用字符名称“\u00F1”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(45): warning C4566: 由通用字符名称“\u00F4”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(45): warning C4566: 由通用字符名称“\u00F5”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(45): warning C4566: 由通用字符名称“\u00F6”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(45): warning C4566: 由通用字符名称“\u00F8”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(45): warning C4566: 由通用字符名称“\u00FB”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(45): warning C4566: 由通用字符名称“\u00FD”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(45): warning C4566: 由通用字符名称“\u00FE”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(45): warning C4566: 由通用字符名称“\u00FF”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(46): warning C4838: 从“int”转换到“const char”需要收缩转换
+d:\test\npp\hexeditor\src\tables.h(46): warning C4305: “初始化”: 从“int”到“const char”截断
+d:\test\npp\hexeditor\src\tables.h(46): warning C4309: “初始化”: 截断常量值
+d:\test\npp\hexeditor\src\hexdialog.h(78): warning C4996: 'wcscpy': This function or variable may be unsafe. Consider using wcscpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\corecrt_wstring.h(121): note: 参见“wcscpy”的声明
+d:\test\npp\hexeditor\src\hex.cpp(109): warning C4996: 'wcscpy': This function or variable may be unsafe. Consider using wcscpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\corecrt_wstring.h(121): note: 参见“wcscpy”的声明
+d:\test\npp\hexeditor\src\hex.cpp(110): warning C4996: 'wcscpy': This function or variable may be unsafe. Consider using wcscpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\corecrt_wstring.h(121): note: 参见“wcscpy”的声明
+d:\test\npp\hexeditor\src\hex.cpp(111): warning C4996: 'wcscpy': This function or variable may be unsafe. Consider using wcscpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\corecrt_wstring.h(121): note: 参见“wcscpy”的声明
+d:\test\npp\hexeditor\src\hex.cpp(112): warning C4996: 'wcscpy': This function or variable may be unsafe. Consider using wcscpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\corecrt_wstring.h(121): note: 参见“wcscpy”的声明
+d:\test\npp\hexeditor\src\hex.cpp(113): warning C4996: 'wcscpy': This function or variable may be unsafe. Consider using wcscpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\corecrt_wstring.h(121): note: 参见“wcscpy”的声明
+d:\test\npp\hexeditor\src\hex.cpp(114): warning C4996: 'wcscpy': This function or variable may be unsafe. Consider using wcscpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\corecrt_wstring.h(121): note: 参见“wcscpy”的声明
+d:\test\npp\hexeditor\src\hex.cpp(115): warning C4996: 'wcscpy': This function or variable may be unsafe. Consider using wcscpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\corecrt_wstring.h(121): note: 参见“wcscpy”的声明
+d:\test\npp\hexeditor\src\hex.cpp(367): warning C4838: 从“int”转换到“CHAR”需要收缩转换
+d:\test\npp\hexeditor\src\hex.cpp(367): warning C4309: “初始化”: 截断常量值
+d:\test\npp\hexeditor\src\hex.cpp(346): warning C4996: 'wcscpy': This function or variable may be unsafe. Consider using wcscpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\corecrt_wstring.h(121): note: 参见“wcscpy”的声明
+d:\test\npp\hexeditor\src\hex.cpp(352): warning C4996: 'wcscpy': This function or variable may be unsafe. Consider using wcscpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\corecrt_wstring.h(121): note: 参见“wcscpy”的声明
+d:\test\npp\hexeditor\src\hex.cpp(361): warning C4996: 'wcscpy': This function or variable may be unsafe. Consider using wcscpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\corecrt_wstring.h(121): note: 参见“wcscpy”的声明
+d:\test\npp\hexeditor\src\hex.cpp(362): warning C4996: 'wcscat': This function or variable may be unsafe. Consider using wcscat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\corecrt_wstring.h(101): note: 参见“wcscat”的声明
+d:\test\npp\hexeditor\src\hex.cpp(415): warning C4996: '_itow': This function or variable may be unsafe. Consider using _itow_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\corecrt_wstdlib.h(69): note: 参见“_itow”的声明
+d:\test\npp\hexeditor\src\hex.cpp(416): warning C4996: '_itow': This function or variable may be unsafe. Consider using _itow_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\corecrt_wstdlib.h(69): note: 参见“_itow”的声明
+d:\test\npp\hexeditor\src\hex.cpp(417): warning C4996: '_itow': This function or variable may be unsafe. Consider using _itow_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\corecrt_wstdlib.h(69): note: 参见“_itow”的声明
+d:\test\npp\hexeditor\src\hex.cpp(418): warning C4996: '_itow': This function or variable may be unsafe. Consider using _itow_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\corecrt_wstdlib.h(69): note: 参见“_itow”的声明
+d:\test\npp\hexeditor\src\hex.cpp(419): warning C4996: '_itow': This function or variable may be unsafe. Consider using _itow_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\corecrt_wstdlib.h(69): note: 参见“_itow”的声明
+d:\test\npp\hexeditor\src\hex.cpp(422): warning C4996: '_itow': This function or variable may be unsafe. Consider using _itow_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\corecrt_wstdlib.h(69): note: 参见“_itow”的声明
+d:\test\npp\hexeditor\src\hex.cpp(423): warning C4996: '_itow': This function or variable may be unsafe. Consider using _itow_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\corecrt_wstdlib.h(69): note: 参见“_itow”的声明
+d:\test\npp\hexeditor\src\hex.cpp(424): warning C4996: '_itow': This function or variable may be unsafe. Consider using _itow_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\corecrt_wstdlib.h(69): note: 参见“_itow”的声明
+d:\test\npp\hexeditor\src\hex.cpp(425): warning C4996: '_itow': This function or variable may be unsafe. Consider using _itow_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\corecrt_wstdlib.h(69): note: 参见“_itow”的声明
+d:\test\npp\hexeditor\src\hex.cpp(426): warning C4996: '_itow': This function or variable may be unsafe. Consider using _itow_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\corecrt_wstdlib.h(69): note: 参见“_itow”的声明
+d:\test\npp\hexeditor\src\hex.cpp(427): warning C4996: '_itow': This function or variable may be unsafe. Consider using _itow_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\corecrt_wstdlib.h(69): note: 参见“_itow”的声明
+d:\test\npp\hexeditor\src\hex.cpp(428): warning C4996: '_itow': This function or variable may be unsafe. Consider using _itow_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\corecrt_wstdlib.h(69): note: 参见“_itow”的声明
+d:\test\npp\hexeditor\src\hex.cpp(429): warning C4996: '_itow': This function or variable may be unsafe. Consider using _itow_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\corecrt_wstdlib.h(69): note: 参见“_itow”的声明
+d:\test\npp\hexeditor\src\hex.cpp(430): warning C4996: '_itow': This function or variable may be unsafe. Consider using _itow_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\corecrt_wstdlib.h(69): note: 参见“_itow”的声明
+d:\test\npp\hexeditor\src\hex.cpp(432): warning C4996: '_itow': This function or variable may be unsafe. Consider using _itow_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\corecrt_wstdlib.h(69): note: 参见“_itow”的声明
+d:\test\npp\hexeditor\src\hex.cpp(433): warning C4996: '_itow': This function or variable may be unsafe. Consider using _itow_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\corecrt_wstdlib.h(69): note: 参见“_itow”的声明
+d:\test\npp\hexeditor\src\hex.cpp(434): warning C4996: '_itow': This function or variable may be unsafe. Consider using _itow_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\corecrt_wstdlib.h(69): note: 参见“_itow”的声明
+d:\test\npp\hexeditor\src\hex.cpp(435): warning C4996: '_itow': This function or variable may be unsafe. Consider using _itow_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\corecrt_wstdlib.h(69): note: 参见“_itow”的声明
+d:\test\npp\hexeditor\src\hex.cpp(436): warning C4996: '_itow': This function or variable may be unsafe. Consider using _itow_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\corecrt_wstdlib.h(69): note: 参见“_itow”的声明
+d:\test\npp\hexeditor\src\hex.cpp(437): warning C4996: '_itow': This function or variable may be unsafe. Consider using _itow_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\corecrt_wstdlib.h(69): note: 参见“_itow”的声明
+d:\test\npp\hexeditor\src\hex.cpp(1016): warning C4996: 'wcscpy': This function or variable may be unsafe. Consider using wcscpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\corecrt_wstring.h(121): note: 参见“wcscpy”的声明
+d:\test\npp\hexeditor\src\hex.cpp(1141): warning C4996: 'wcscpy': This function or variable may be unsafe. Consider using wcscpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\corecrt_wstring.h(121): note: 参见“wcscpy”的声明
+d:\test\npp\hexeditor\src\hex.cpp(1143): warning C4996: '_wcstok': This function or variable may be unsafe. Consider using wcstok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\corecrt_wstring.h(240): note: 参见“_wcstok”的声明
+d:\test\npp\hexeditor\src\hex.cpp(1151): warning C4996: '_wcstok': This function or variable may be unsafe. Consider using wcstok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\corecrt_wstring.h(240): note: 参见“_wcstok”的声明
+d:\test\npp\hexeditor\src\hex.cpp(1225): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\string.h(129): note: 参见“strcpy”的声明
+d:\test\npp\hexeditor\src\hex.cpp(1228): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\string.h(90): note: 参见“strcat”的声明
+d:\test\npp\hexeditor\src\hex.cpp(1229): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\string.h(90): note: 参见“strcat”的声明
+d:\test\npp\hexeditor\src\hex.cpp(1523): warning C4018: “<”: 有符号/无符号不匹配
+d:\test\npp\hexeditor\src\hex.cpp(1442): warning C4996: 'wcscpy': This function or variable may be unsafe. Consider using wcscpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\corecrt_wstring.h(121): note: 参见“wcscpy”的声明
+d:\test\npp\hexeditor\src\hex.cpp(1443): warning C4996: 'wcscpy': This function or variable may be unsafe. Consider using wcscpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\corecrt_wstring.h(121): note: 参见“wcscpy”的声明
+d:\test\npp\hexeditor\src\hex.cpp(1446): warning C4996: 'wcscat': This function or variable may be unsafe. Consider using wcscat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\corecrt_wstring.h(101): note: 参见“wcscat”的声明
+d:\test\npp\hexeditor\src\hex.cpp(1447): warning C4996: 'wcscpy': This function or variable may be unsafe. Consider using wcscpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\corecrt_wstring.h(121): note: 参见“wcscpy”的声明
+d:\test\npp\hexeditor\src\hex.cpp(1449): warning C4996: 'wcscat': This function or variable may be unsafe. Consider using wcscat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\corecrt_wstring.h(101): note: 参见“wcscat”的声明
+d:\test\npp\hexeditor\src\hex.cpp(1450): warning C4996: 'wcscat': This function or variable may be unsafe. Consider using wcscat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\corecrt_wstring.h(101): note: 参见“wcscat”的声明
+  HEXDialog.cpp
+d:\test\npp\common\ccpp\notepad_plus_rc.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\test\npp\nativelang\src\nativelang_def.h(304): warning C4996: '_wcstok': This function or variable may be unsafe. Consider using wcstok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\corecrt_wstring.h(240): note: 参见“_wcstok”的声明
+d:\test\npp\nativelang\src\nativelang_def.h(305): warning C4996: '_wcstok': This function or variable may be unsafe. Consider using wcstok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\corecrt_wstring.h(240): note: 参见“_wcstok”的声明
+d:\test\npp\hexeditor\src\tables.h(38): warning C4566: 由通用字符名称“\u201A”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(38): warning C4566: 由通用字符名称“\u0192”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(38): warning C4566: 由通用字符名称“\u201E”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(38): warning C4566: 由通用字符名称“\u2020”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(38): warning C4566: 由通用字符名称“\u2021”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(38): warning C4566: 由通用字符名称“\u02C6”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(38): warning C4566: 由通用字符名称“\u0160”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(38): warning C4566: 由通用字符名称“\u2039”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(38): warning C4566: 由通用字符名称“\u0152”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(38): warning C4566: 由通用字符名称“\u017D”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(39): warning C4566: 由通用字符名称“\u2022”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(39): warning C4566: 由通用字符名称“\u2122”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(39): warning C4566: 由通用字符名称“\u0161”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(39): warning C4566: 由通用字符名称“\u203A”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(39): warning C4566: 由通用字符名称“\u0153”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(39): warning C4566: 由通用字符名称“\u017E”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(39): warning C4566: 由通用字符名称“\u0178”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(40): warning C4566: 由通用字符名称“\u00A1”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(40): warning C4566: 由通用字符名称“\u00A2”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(40): warning C4566: 由通用字符名称“\u00A3”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(40): warning C4566: 由通用字符名称“\u00A5”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(40): warning C4566: 由通用字符名称“\u00A6”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(40): warning C4566: 由通用字符名称“\u00A9”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(40): warning C4566: 由通用字符名称“\u00AA”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(40): warning C4566: 由通用字符名称“\u00AB”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(40): warning C4566: 由通用字符名称“\u00AC”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(40): warning C4566: 由通用字符名称“\u00AD”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(40): warning C4566: 由通用字符名称“\u00AE”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(40): warning C4566: 由通用字符名称“\u00AF”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(41): warning C4566: 由通用字符名称“\u00B2”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(41): warning C4566: 由通用字符名称“\u00B3”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(41): warning C4566: 由通用字符名称“\u00B4”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(41): warning C4566: 由通用字符名称“\u00B5”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(41): warning C4566: 由通用字符名称“\u00B6”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(41): warning C4566: 由通用字符名称“\u00B8”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(41): warning C4566: 由通用字符名称“\u00B9”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(41): warning C4566: 由通用字符名称“\u00BA”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(41): warning C4566: 由通用字符名称“\u00BB”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(41): warning C4566: 由通用字符名称“\u00BC”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(41): warning C4566: 由通用字符名称“\u00BD”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(41): warning C4566: 由通用字符名称“\u00BE”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(41): warning C4566: 由通用字符名称“\u00BF”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(42): warning C4566: 由通用字符名称“\u00C0”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(42): warning C4566: 由通用字符名称“\u00C1”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(42): warning C4566: 由通用字符名称“\u00C2”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(42): warning C4566: 由通用字符名称“\u00C3”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(42): warning C4566: 由通用字符名称“\u00C4”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(42): warning C4566: 由通用字符名称“\u00C5”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(42): warning C4566: 由通用字符名称“\u00C6”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(42): warning C4566: 由通用字符名称“\u00C7”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(42): warning C4566: 由通用字符名称“\u00C8”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(42): warning C4566: 由通用字符名称“\u00C9”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(42): warning C4566: 由通用字符名称“\u00CA”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(42): warning C4566: 由通用字符名称“\u00CB”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(42): warning C4566: 由通用字符名称“\u00CC”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(42): warning C4566: 由通用字符名称“\u00CD”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(42): warning C4566: 由通用字符名称“\u00CE”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(42): warning C4566: 由通用字符名称“\u00CF”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(43): warning C4566: 由通用字符名称“\u00D0”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(43): warning C4566: 由通用字符名称“\u00D1”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(43): warning C4566: 由通用字符名称“\u00D2”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(43): warning C4566: 由通用字符名称“\u00D3”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(43): warning C4566: 由通用字符名称“\u00D4”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(43): warning C4566: 由通用字符名称“\u00D5”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(43): warning C4566: 由通用字符名称“\u00D6”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(43): warning C4566: 由通用字符名称“\u00D8”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(43): warning C4566: 由通用字符名称“\u00D9”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(43): warning C4566: 由通用字符名称“\u00DA”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(43): warning C4566: 由通用字符名称“\u00DB”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(43): warning C4566: 由通用字符名称“\u00DC”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(43): warning C4566: 由通用字符名称“\u00DD”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(43): warning C4566: 由通用字符名称“\u00DE”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(43): warning C4566: 由通用字符名称“\u00DF”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(44): warning C4566: 由通用字符名称“\u00E2”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(44): warning C4566: 由通用字符名称“\u00E3”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(44): warning C4566: 由通用字符名称“\u00E4”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(44): warning C4566: 由通用字符名称“\u00E5”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(44): warning C4566: 由通用字符名称“\u00E6”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(44): warning C4566: 由通用字符名称“\u00E7”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(44): warning C4566: 由通用字符名称“\u00EB”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(44): warning C4566: 由通用字符名称“\u00EE”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(44): warning C4566: 由通用字符名称“\u00EF”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(45): warning C4566: 由通用字符名称“\u00F0”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(45): warning C4566: 由通用字符名称“\u00F1”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(45): warning C4566: 由通用字符名称“\u00F4”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(45): warning C4566: 由通用字符名称“\u00F5”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(45): warning C4566: 由通用字符名称“\u00F6”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(45): warning C4566: 由通用字符名称“\u00F8”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(45): warning C4566: 由通用字符名称“\u00FB”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(45): warning C4566: 由通用字符名称“\u00FD”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(45): warning C4566: 由通用字符名称“\u00FE”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(45): warning C4566: 由通用字符名称“\u00FF”表示的字符不能在当前代码页(936)中表示出来
+d:\test\npp\hexeditor\src\tables.h(46): warning C4838: 从“int”转换到“const char”需要收缩转换
+d:\test\npp\hexeditor\src\tables.h(46): warning C4305: “初始化”: 从“int”到“const char”截断
+d:\test\npp\hexeditor\src\tables.h(46): warning C4309: “初始化”: 截断常量值
+d:\test\npp\hexeditor\src\hexdialog.h(78): warning C4996: 'wcscpy': This function or variable may be unsafe. Consider using wcscpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\corecrt_wstring.h(121): note: 参见“wcscpy”的声明
+d:\test\npp\hexeditor\src\hexdialog.cpp(814): warning C4996: 'wcscpy': This function or variable may be unsafe. Consider using wcscpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\corecrt_wstring.h(121): note: 参见“wcscpy”的声明
+d:\test\npp\hexeditor\src\hexdialog.cpp(1042): warning C4996: '_swprintf': This function or variable may be unsafe. Consider using _swprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\corecrt_wstdio.h(1446): note: 参见“_swprintf”的声明
+d:\test\npp\hexeditor\src\hexdialog.cpp(1044): warning C4996: '_swprintf': This function or variable may be unsafe. Consider using _swprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\corecrt_wstdio.h(1446): note: 参见“_swprintf”的声明
+d:\test\npp\hexeditor\src\hexdialog.cpp(1469): warning C4477: “_swprintf”: 格式字符串“%s”需要类型“wchar_t *”的参数，但可变参数 1 拥有了类型“LPSTR”
+  d:\test\npp\hexeditor\src\hexdialog.cpp(1469): note: 请考虑在格式字符串中使用“%hs”
+  d:\test\npp\hexeditor\src\hexdialog.cpp(1469): note: 请考虑在格式字符串中使用“%Ts”
+  d:\test\npp\hexeditor\src\hexdialog.cpp(1469): note: Visual C++ 使用非标准语义时会出现此警告
+d:\test\npp\hexeditor\src\hexdialog.cpp(1469): warning C4996: '_swprintf': This function or variable may be unsafe. Consider using _swprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\corecrt_wstdio.h(1446): note: 参见“_swprintf”的声明
+d:\test\npp\hexeditor\src\hexdialog.cpp(1760): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\stdio.h(1769): note: 参见“sprintf”的声明
+d:\test\npp\hexeditor\src\hexdialog.cpp(1761): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\stdio.h(1769): note: 参见“sprintf”的声明
+d:\test\npp\hexeditor\src\hexdialog.cpp(1762): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\stdio.h(1769): note: 参见“sprintf”的声明
+d:\test\npp\hexeditor\src\hexdialog.cpp(1763): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\stdio.h(1769): note: 参见“sprintf”的声明
+d:\test\npp\hexeditor\src\hexdialog.cpp(1764): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\stdio.h(1769): note: 参见“sprintf”的声明
+d:\test\npp\hexeditor\src\hexdialog.cpp(1765): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\stdio.h(1769): note: 参见“sprintf”的声明
+d:\test\npp\hexeditor\src\hexdialog.cpp(1766): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\stdio.h(1769): note: 参见“sprintf”的声明
+d:\test\npp\hexeditor\src\hexdialog.cpp(1767): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\stdio.h(1769): note: 参见“sprintf”的声明
+d:\test\npp\hexeditor\src\hexdialog.cpp(1768): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\stdio.h(1769): note: 参见“sprintf”的声明
+d:\test\npp\hexeditor\src\hexdialog.cpp(1769): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\stdio.h(1769): note: 参见“sprintf”的声明
+d:\test\npp\hexeditor\src\hexdialog.cpp(1770): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\stdio.h(1769): note: 参见“sprintf”的声明
+d:\test\npp\hexeditor\src\hexdialog.cpp(1771): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\stdio.h(1769): note: 参见“sprintf”的声明
+d:\test\npp\hexeditor\src\hexdialog.cpp(1772): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\stdio.h(1769): note: 参见“sprintf”的声明
+d:\test\npp\hexeditor\src\hexdialog.cpp(1777): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\stdio.h(1769): note: 参见“sprintf”的声明
+d:\test\npp\hexeditor\src\hexdialog.cpp(1778): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\stdio.h(1769): note: 参见“sprintf”的声明
+d:\test\npp\hexeditor\src\hexdialog.cpp(1779): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\stdio.h(1769): note: 参见“sprintf”的声明
+d:\test\npp\hexeditor\src\hexdialog.cpp(1780): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\stdio.h(1769): note: 参见“sprintf”的声明
+d:\test\npp\hexeditor\src\hexdialog.cpp(1781): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\stdio.h(1769): note: 参见“sprintf”的声明
+d:\test\npp\hexeditor\src\hexdialog.cpp(1782): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\stdio.h(1769): note: 参见“sprintf”的声明
+d:\test\npp\hexeditor\src\hexdialog.cpp(1783): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\stdio.h(1769): note: 参见“sprintf”的声明
+d:\test\npp\hexeditor\src\hexdialog.cpp(1784): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\stdio.h(1769): note: 参见“sprintf”的声明
+d:\test\npp\hexeditor\src\hexdialog.cpp(1785): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\stdio.h(1769): note: 参见“sprintf”的声明
+d:\test\npp\hexeditor\src\hexdialog.cpp(1786): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\stdio.h(1769): note: 参见“sprintf”的声明
+d:\test\npp\hexeditor\src\hexdialog.cpp(1787): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\stdio.h(1769): note: 参见“sprintf”的声明
+d:\test\npp\hexeditor\src\hexdialog.cpp(1788): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\stdio.h(1769): note: 参见“sprintf”的声明
+d:\test\npp\hexeditor\src\hexdialog.cpp(1789): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\stdio.h(1769): note: 参见“sprintf”的声明
+d:\test\npp\hexeditor\src\hexdialog.cpp(1848): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\string.h(129): note: 参见“strcpy”的声明
+d:\test\npp\hexeditor\src\hexdialog.cpp(1851): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\string.h(90): note: 参见“strcat”的声明
+d:\test\npp\hexeditor\src\hexdialog.cpp(1856): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\string.h(129): note: 参见“strcpy”的声明
+d:\test\npp\hexeditor\src\hexdialog.cpp(1859): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\string.h(90): note: 参见“strcat”的声明
+d:\test\npp\hexeditor\src\hexdialog.cpp(1867): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\string.h(129): note: 参见“strcpy”的声明
+d:\test\npp\hexeditor\src\hexdialog.cpp(1870): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\string.h(90): note: 参见“strcat”的声明
+d:\test\npp\hexeditor\src\hexdialog.cpp(1875): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\string.h(129): note: 参见“strcpy”的声明
+d:\test\npp\hexeditor\src\hexdialog.cpp(1878): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\string.h(90): note: 参见“strcat”的声明
+d:\test\npp\hexeditor\src\hexdialog.cpp(2001): warning C4996: 'wcscpy': This function or variable may be unsafe. Consider using wcscpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\corecrt_wstring.h(121): note: 参见“wcscpy”的声明
+d:\test\npp\hexeditor\src\hexdialog.cpp(2007): warning C4996: 'wcscpy': This function or variable may be unsafe. Consider using wcscpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\corecrt_wstring.h(121): note: 参见“wcscpy”的声明
+d:\test\npp\hexeditor\src\hexdialog.cpp(3878): warning C4838: 从“UINT”转换到“LONG”需要收缩转换
+d:\test\npp\hexeditor\src\hexdialog.cpp(3888): warning C4838: 从“UINT”转换到“LONG”需要收缩转换
+d:\test\npp\hexeditor\src\hexdialog.cpp(4194): warning C4996: '_swprintf': This function or variable may be unsafe. Consider using _swprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\corecrt_wstdio.h(1446): note: 参见“_swprintf”的声明
+d:\test\npp\hexeditor\src\hexdialog.cpp(4198): warning C4996: '_swprintf': This function or variable may be unsafe. Consider using _swprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\corecrt_wstdio.h(1446): note: 参见“_swprintf”的声明
+  正在生成代码...
+HelpDialog.obj : warning LNK4075: 忽略“/EDITANDCONTINUE”(由于“/SAFESEH”规范)
+    正在创建库 D:\Test\NPP\HexEditor\projects\2017\Win32\Debug\HexEditor.lib 和对象 D:\Test\NPP\HexEditor\projects\2017\Win32\Debug\HexEditor.exp
+  HexEditor.vcxproj -> D:\Test\NPP\HexEditor\projects\2017\Win32\Debug\HexEditor.dll
+  HexEditor.vcxproj -> D:\Test\NPP\HexEditor\projects\2017\Win32\Debug\HexEditor.pdb (Full PDB)
